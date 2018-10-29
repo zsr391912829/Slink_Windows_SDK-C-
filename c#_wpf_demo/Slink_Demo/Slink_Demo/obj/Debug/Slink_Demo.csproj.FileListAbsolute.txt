@@ -1,0 +1,12 @@
+D:\zsr\SLINK_FOR_WINDOWS\c#_wpf_demo\Slink_Demo\Slink_Demo\bin\Debug\Slink_Demo.exe
+D:\zsr\SLINK_FOR_WINDOWS\c#_wpf_demo\Slink_Demo\Slink_Demo\bin\Debug\Slink_Demo.pdb
+D:\zsr\SLINK_FOR_WINDOWS\c#_wpf_demo\Slink_Demo\Slink_Demo\obj\Debug\Slink_Demo.csprojResolveAssemblyReference.cache
+D:\zsr\SLINK_FOR_WINDOWS\c#_wpf_demo\Slink_Demo\Slink_Demo\obj\Debug\MainWindow.baml
+D:\zsr\SLINK_FOR_WINDOWS\c#_wpf_demo\Slink_Demo\Slink_Demo\obj\Debug\MainWindow.g.cs
+D:\zsr\SLINK_FOR_WINDOWS\c#_wpf_demo\Slink_Demo\Slink_Demo\obj\Debug\App.g.cs
+D:\zsr\SLINK_FOR_WINDOWS\c#_wpf_demo\Slink_Demo\Slink_Demo\obj\Debug\Slink_Demo_MarkupCompile.cache
+D:\zsr\SLINK_FOR_WINDOWS\c#_wpf_demo\Slink_Demo\Slink_Demo\obj\Debug\Slink_Demo.g.resources
+D:\zsr\SLINK_FOR_WINDOWS\c#_wpf_demo\Slink_Demo\Slink_Demo\obj\Debug\Slink_Demo.Properties.Resources.resources
+D:\zsr\SLINK_FOR_WINDOWS\c#_wpf_demo\Slink_Demo\Slink_Demo\obj\Debug\Slink_Demo.csproj.GenerateResource.Cache
+D:\zsr\SLINK_FOR_WINDOWS\c#_wpf_demo\Slink_Demo\Slink_Demo\obj\Debug\Slink_Demo.exe
+D:\zsr\SLINK_FOR_WINDOWS\c#_wpf_demo\Slink_Demo\Slink_Demo\obj\Debug\Slink_Demo.pdb
